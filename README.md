@@ -9,5 +9,4 @@ Tested on
 - Installed RAM: 256 GB 
 - Graphic processing unit: NVIDIA RTX 3090
 
-Instructions for use and expected output are described in the codes and readme files in the respective subfolders.
-All codes are available for use freely by individual users for non-commerical purposes under the GNU GPL version 3.0.
+Instructions for use and expected output are described in the codes and readme files in the respective subfolders. Most of the codes are not computationally intense, hence takes only a few seconds to a few minutes to run on our images. All codes are available for use freely by individual users for non-commercial purposes under the GNU GPL version 3.0.
