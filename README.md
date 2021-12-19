@@ -10,4 +10,4 @@ Tested on
 - Graphic processing unit: NVIDIA RTX 3090
 
 Instructions for use and expected output are described in the codes and readme files in the respective subfolders.
-They are available for use freely by individual users for non-commerical purposes under the GNU GPL version 3.0.
+All codes are available for use freely by individual users for non-commerical purposes under the GNU GPL version 3.0.
